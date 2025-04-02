@@ -1,0 +1,5 @@
+We are going to create a program that will take data from the blue alliance API and use is to draw conclusions about 
+    teams and robots related to their effectiveness in matches
+
+We will be using code from:
+    nlohmann/json - https://github.com/nlohmann/json
