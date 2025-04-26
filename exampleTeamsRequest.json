@@ -1,0 +1,290 @@
+[
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc118",
+        "name": "NASA-Johnson Space Center/Clear Creek Independent School District&Clear Creek Independent School District",
+        "nickname": "Robonauts",
+        "state_prov": "Texas",
+        "team_number": 118
+    },
+    {
+        "city": "Baytown",
+        "country": "USA",
+        "key": "frc1255",
+        "name": "ExxonMobil/Ace Hardware/Longoria Body Shop & John M Stuart Career Tech HS & Impact Early College High Sch & Goose Creek Memorial High Sch & Ross S Sterling High School & Robert E Lee High School",
+        "nickname": "Blarglefish",
+        "state_prov": "Texas",
+        "team_number": 1255
+    },
+    {
+        "city": "Bellaire",
+        "country": "USA",
+        "key": "frc2585",
+        "name": "ExxonMobil/Haas Foundation/Bellaire Robotics Booster Club/Texas Workforce Commission/Chick-fil-a/Subway/Campo Sheet Metal/BGE, Inc./Raising Canes&Bellaire High School",
+        "nickname": "Impact",
+        "state_prov": "Texas",
+        "team_number": 2585
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc2587",
+        "name": "Shell/Bechtel/ExxonMobil/Gene Haas Foundation/Texas Workforce Commission/EPO Houston/Argosy Foundation&Lamar High School&Carnegie-Vanguard High School&Westside High School",
+        "nickname": "DiscoBots",
+        "state_prov": "Texas",
+        "team_number": 2587
+    },
+    {
+        "city": "Katy",
+        "country": "USA",
+        "key": "frc2882",
+        "name": "Bechtel/Texas Workforce Commission/Gene Haas Foundation/Argosy Foundation&Morton Ranch High School",
+        "nickname": "Nuts n' Boltz",
+        "state_prov": "Texas",
+        "team_number": 2882
+    },
+    {
+        "city": "Pharr",
+        "country": "USA",
+        "key": "frc3029",
+        "name": "PSJA ISD/Texas Workforce Commission/National Instruments&Psja T Jefferson Echs",
+        "nickname": "Mecha Titans",
+        "state_prov": "Texas",
+        "team_number": 3029
+    },
+    {
+        "city": "San Antonio",
+        "country": "USA",
+        "key": "frc3481",
+        "name": "Gene Haas Foundation/Franks Manufacturing/Brandeis Bronc Botz Booster Club/Department of Defense/Texas Workforce Commission/3M/National Instruments/FIRST-in-Texas/SolidWorks/San Antonio Powder Coating/Printingblue.com/Dopp; Patlovany;  Ghawghawe; Vijayakumar; Elizalde; Saikumar Families/Ryobi Tools/Northside ISD&Brandeis High School",
+        "nickname": "Bronc Botz",
+        "state_prov": "Texas",
+        "team_number": 3481
+    },
+    {
+        "city": "Spring",
+        "country": "USA",
+        "key": "frc3735",
+        "name": "Klein Independent School District/Campus Kids/David & Sandra Braddock/Champion Fiberglass/Rockwell Automation/Raytheon Technologies/Lockheed Martin/Texas Workforce Commision/i-Solids/Bereshkaweb Web Studio/Flash Data/Linde&Klein ISD",
+        "nickname": "VorTX",
+        "state_prov": "Texas",
+        "team_number": 3735
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc3847",
+        "name": "DOW/Apple/Analog Devices/Rev Robotics/Gene Haas Foundation/TE Connectivity/BAE/QADWorks/Intuitive Foundation/Solarcraft, Inc/Texas Workforce Commission/NI/Emerson/PTC/Fabworks/SendCutSend&St Agnes Academy&Strake Jesuit College Prep Sch",
+        "nickname": "Spectrum   -△◅",
+        "state_prov": "Texas",
+        "team_number": 3847
+    },
+    {
+        "city": "Jersey Village",
+        "country": "USA",
+        "key": "frc4587",
+        "name": "Jersey Village High School/FRC Registration Grant/Gene Haas Foundation/the Softsmiths Cloud/Texas Workforce Commission/ARC Specialties/National Instruments/United Airlines & Jersey Village High School",
+        "nickname": "Jersey Voltage",
+        "state_prov": "Texas",
+        "team_number": 4587
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc5070",
+        "name": "DOW/Leidos Foundation/Gene Haas Foundation/Argosy Foundation/Texas Workforce Commission/New Beginning STEM Youth Initiative/Innovation Impact Lab&Neighborhood Group",
+        "nickname": "Gearnotics",
+        "state_prov": "Texas",
+        "team_number": 5070
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc5261",
+        "name": "Houston Water Works/B&L Pipeco Services/The Gene HAAS Foundation/Texas Workforce Commission/Humble ISD CTE Department/TC Energy&Summer Creek High School",
+        "nickname": "Cyber Shock",
+        "state_prov": "Texas",
+        "team_number": 5261
+    },
+    {
+        "city": "Pearland",
+        "country": "USA",
+        "key": "frc5414",
+        "name": "NASA/DOW/Texas Workforce Commission/Ascend Cares Foundation/Gene Haas Foundation/BNY Mellon/Intuitive Foundation/STEM Savvy Brew/Pearland Lions Club/Boeing/Conoco Phillips/Chevron/Pearland Police Officers Association/Endress & Hauser/AYLUS&Pearland High School&Glenda Dawson High School&Robert Turner Colege-Career HS",
+        "nickname": "Pearadox",
+        "state_prov": "Texas",
+        "team_number": 5414
+    },
+    {
+        "city": "Mission",
+        "country": "USA",
+        "key": "frc6180",
+        "name": "AEP/Royal Technologies/Texas Workforce Commission&Juan Diego Academy",
+        "nickname": "Mechanical Lions",
+        "state_prov": "Texas",
+        "team_number": 6180
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc6488",
+        "name": "TWC/Carringer Engineering/Agrosy Foundation, Hack Club/NI / Emerson&Mayde Creek High School",
+        "nickname": "RoboRams",
+        "state_prov": "Texas",
+        "team_number": 6488
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc7115",
+        "name": "Two Sigma/Gene Haas Foundation/Texas Workforce/FedEx/NASA & Yates High School",
+        "nickname": "Red Lion Bots",
+        "state_prov": "Texas",
+        "team_number": 7115
+    },
+    {
+        "city": "Laredo",
+        "country": "USA",
+        "key": "frc7521",
+        "name": "BSL Customs & Logistics /Ardurra Engineering/The Momster Shop Events/Performance Air/Terracon Consultants/USA Debusk/Falcon International Bank/City of Laredo/MileOne/Tacos el Tejano/Rendezbrew Lattes&United High School",
+        "nickname": "ULTIMATE Robotics",
+        "state_prov": "Texas",
+        "team_number": 7521
+    },
+    {
+        "city": "Tomball",
+        "country": "USA",
+        "key": "frc7691",
+        "name": "Chuck Lorre Foundation/Dow/The Simon Family/Coach Stephanie and Coach Brian/Gene Haas Foundation/Reliance Steel/The Stand/Texas Workforce Commission/America's First ER/MIT Club of South Texas&Tomball star academy",
+        "nickname": "TSA All Stars",
+        "state_prov": "Texas",
+        "team_number": 7691
+    },
+    {
+        "city": "Cypress",
+        "country": "USA",
+        "key": "frc8144",
+        "name": "Raytheon/Izzi's Scratch Kitchen and Bakery/Finesse Orthodontics &Cypress Springs High School",
+        "nickname": "Red Chair Robotics",
+        "state_prov": "Texas",
+        "team_number": 8144
+    },
+    {
+        "city": "Katy",
+        "country": "USA",
+        "key": "frc8370",
+        "name": "Katy ISD/Stanley Consultants/Gene Hass Foundation/HEB Tournament of Champions/Rimkus Consultants/Texas Workforce Commission/Argosy Foundation&Patricia Paetow High School",
+        "nickname": "Glow With The Flow",
+        "state_prov": "Texas",
+        "team_number": 8370
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc8392",
+        "name": "Champion Technologies/FIRST Robotics in Texas/FAB Lab Houson/Aldine ISD Career & Technical Education&Douglas Macarthur High School",
+        "nickname": "Mac Attack",
+        "state_prov": "Texas",
+        "team_number": 8392
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc8515",
+        "name": "Dow/Apple/The Boeing Company/Analog Devices/REV Robotics/Gene Haas Foundation/TE Connectivity/QADWorks/Solarcraft Inc./Texas Workforce Commission/NI/Emerson/Fabworks/SendCutSend&St Agnes Academy&Strake Jesuit College Prep Sch",
+        "nickname": "Photon",
+        "state_prov": "Texas",
+        "team_number": 8515
+    },
+    {
+        "city": "San Juan",
+        "country": "USA",
+        "key": "frc8556",
+        "name": "Texas Workforce Commission/FIRST® Robotics Competition New Team Grant & PSJA Collegiate High School Program",
+        "nickname": "Lion Robotics",
+        "state_prov": "Texas",
+        "team_number": 8556
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc9181",
+        "name": "NASA/Caterpillar Gas and Oil, marine and solar divisions/Emerson MSOL division/The Argosy Foundation/Texas Workforce Commission/Zenith Real Estate/Friends of PlatyPirates&Family/Community",
+        "nickname": "PlatyPirates",
+        "state_prov": "Texas",
+        "team_number": 9181
+    },
+    {
+        "city": "La Porte",
+        "country": "USA",
+        "key": "frc9307",
+        "name": "La Porte High School",
+        "nickname": "Spicy Chihuahuas",
+        "state_prov": "Texas",
+        "team_number": 9307
+    },
+    {
+        "city": "Sugar Land",
+        "country": "USA",
+        "key": "frc9478",
+        "name": "Robo-Colts - HSI - SL&Harmony School of Innovation-Sugar Land",
+        "nickname": "Robo-Colts HSISL",
+        "state_prov": "Texas",
+        "team_number": 9478
+    },
+    {
+        "city": "Kingwood",
+        "country": "USA",
+        "key": "frc9512",
+        "name": "FRC/FIT/Tallgrass Energy&Kingwood High School",
+        "nickname": "Horsepower",
+        "state_prov": "Texas",
+        "team_number": 9512
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc9515",
+        "name": "Carver High School",
+        "nickname": "Panther Technik",
+        "state_prov": "Texas",
+        "team_number": 9515
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc9516",
+        "name": "Aldine ISD CTE/GENE HASS FOUNDATION/Dr. Rodriguez and Dr. Gohlke&Davis Senior High School",
+        "nickname": "Davis HS/Falcon Furious",
+        "state_prov": "Texas",
+        "team_number": 9516
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc9517",
+        "name": "Dwight D Eisenhower High Sch",
+        "nickname": "IKE Technik",
+        "state_prov": "Texas",
+        "team_number": 9517
+    },
+    {
+        "city": "Humble",
+        "country": "USA",
+        "key": "frc9521",
+        "name": "NASA/Texas Workforce Commission/Direct Scaffolding Solutions&Humble High School",
+        "nickname": "Humble Rumble",
+        "state_prov": "Texas",
+        "team_number": 9521
+    },
+    {
+        "city": "Houston",
+        "country": "USA",
+        "key": "frc9563",
+        "name": "NASA &Project STEAMex&Family/Community&Mexican Consulate General in Houston",
+        "nickname": "STEAMex USA",
+        "state_prov": "Texas",
+        "team_number": 9563
+    }
+]

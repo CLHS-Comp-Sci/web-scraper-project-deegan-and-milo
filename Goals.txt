@@ -3,3 +3,12 @@ We are going to create a program that will take data from the blue alliance API 
 
 We will be using code from:
     nlohmann/json - https://github.com/nlohmann/json
+
+
+This application will be able to:
+    - collect data from the blue alliance
+    - use the data to:
+        - make an accurate list of robots ranked by how good they are at scoring
+        - create a heatmap for each individual robot of where that robot scores (?)
+        - 
+    - 

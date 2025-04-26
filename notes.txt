@@ -1,4 +1,8 @@
 
+notes for new files:
+    To keep syntax consistent accross files, please include these lines at the beginning of new files:
+        using string = std::string; 
+        using json = nlohmann::json; (only add if you also have #include "include/nlohmann/json.hpp")
 
 notes for json and managing files:
     nlohmann/json was installed to make it easier to read and write to json files
