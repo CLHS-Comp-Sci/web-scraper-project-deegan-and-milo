@@ -10,6 +10,7 @@ Web cracking uses a script to interact with and find information available onlin
 
 ## Description
 Powered by [![The Blue Alliance!](thebluealliance.com)]
+
 This project uses the API for thebluealliance.com to find information on a specific FRC team for a specific year, listing out the top 10 and bottom 10 scoring match of the season, as well as the season average.
 
 ## Use
