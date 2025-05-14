@@ -2,36 +2,38 @@
 _Keep track of this ReadME file as you go. Delete this line when ready_ 
 # Insert Project Name
 ### 2025 CLHS Cybersecurity
-_Insert Student Names_
+Milo Marks, Deegan Townsend
 
 ## WebScraping and Web Cracking
-_define web scraping and web cracking here_
+Web scraping is using a script to pull information from a website.
+Web cracking uses a script to interact with and find information available online
 
 ## Description
-_Insert project description Here_
+This project uses the API for thebluealliance.com to find information on a specific FRC team for a specific year, listing out the top 10 and bottom 10 scoring match of the season, as well as the season average.
 
 ## Use
-_Insert directions for how to use your project and any command line dependencies and arguments_
+To start, first use cd to find the correct repository location. Then, run the python script. It will prompt for a year number (20xx), then a team number (FRC TEAM NUMBER, #, ##, ###, ####, or #####). After these are entered, the data will be printed in the terminal.
 
 ## Sources
-_Insert and sources used for research here_
+   “Requests.” PyPI, 30 Nov. 2016, pypi.org/project/requests/2.12.2/. Accessed 11 May 2025.
+   “The Blue Alliance.” The Blue Alliance, 14 Dec. 2019, www.thebluealliance.com/.
 
 ## Requirement Checklist
 _Feel free to add any checklist items below to best communicate with your group_
 [Instructions for how to use GitHub text formatting] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 
 _To mark a box as complete enter an X in between the brackets. See the first check for an example_
-- [ ] Created github repository
-- [ ] edited MarkDown file for my group with project name and group members.
-- [ ] Research and define webscraping and web cracking in md file
-- [ ] Decide Project using research and personal preference. Fill in Description on md file when ready.
-- [ ] Code and Create Project
-- [ ] Presentation
-   - [ ] code snippets
-   - [ ] video of running program
-   - [ ] At least 11 slides **_See Instructions_**
+- [X] Created github repository
+- [X] edited MarkDown file for my group with project name and group members.
+- [X] Research and define webscraping and web cracking in md file
+- [X] Decide Project using research and personal preference. Fill in Description on md file when ready.
+- [X] Code and Create Project
+- [X] Presentation
+   - [X] code snippets
+   - [X] video of running program
+   - [X] At least 11 slides **_See Instructions_**
 - [ ] Project Write-Up
-- [ ] Works Cited
+- [X] Works Cited
 
 ## Writeup
 _Copy Paste your write up here, just because it makes it look neat_
